@@ -33,7 +33,7 @@ Server: Docker Engine - Community
 
 `$eval "$(docker-machine env default)"`
 
-### Fire Up Docker Image
+### Fire Up Docker Image (Zeppelin Deeplearning4j)
 https://hub.docker.com/r/skymindops/zeppelin-dl4j/
 
 ```
