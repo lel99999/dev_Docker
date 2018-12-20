@@ -27,4 +27,12 @@ Server: Docker Engine - Community
   OS/Arch:          linux/amd64
   Experimental:     false
   ```
+#### Set Environment
+`$docker-machine create --driver virtualbox default`
 
+`$eval "$(docker-machine env default)"`
+
+### Fire Up Docker Image
+https://hub.docker.com/r/skymindops/zeppelin-dl4j/
+
+`$docker run -it --rm  -p 8181:8080 skymindops/zeppelin-dl4j:latest`
