@@ -4,6 +4,7 @@ Docker Development/Playground
 ### Install on OSX
 `$brew install docker-compose docker-machine docker`
 
+#### Install Docker GUI App 
 `$brew cask install docker`
 
 ```
