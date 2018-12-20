@@ -60,3 +60,5 @@ be2e2bb6c9d9: Waiting
 d4358edc487b: Waiting  
 
 ```
+#### Zeppelin browser view
+![Zeppelin View](https://github.com/lel99999/dev_docker/blob/master/zeppelin_port8181.png)
