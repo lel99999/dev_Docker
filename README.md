@@ -1,6 +1,11 @@
 # dev_docker
 Docker Development/Playground
 
+### Docker Toolset
+1. Docker Client
+2. Docker Daemon/Engine
+3. Docker Hub
+
 ### Install on OSX
 `$brew install docker-compose docker-machine docker`
 
@@ -33,7 +38,7 @@ Server: Docker Engine - Community
 
 `$eval "$(docker-machine env default)"`
 
-### Fire Up Docker Image (Zeppelin Deeplearning4j)
+### Fire Up Docker Image (Zeppelin Deeplearning4j)  -- Using Docker Hub
 https://hub.docker.com/r/skymindops/zeppelin-dl4j/
 
 ```
